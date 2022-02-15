@@ -1,11 +1,11 @@
 const CONFIG = {
     titleWeb: "bản hack này đáng iu hơn nhìu ha",
-    introTitle: 'trả lời thích lắm mới để tên ở đây nha',
+    introTitle: 'đây là đồ đáng iu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: '<3<3<3',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
